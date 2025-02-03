@@ -4,7 +4,7 @@ Arcade Racer is a single-player time trial-based arcade racing game. It contains
 Due to the importance of the leaderboards, a significant amount of data is available in each entry. The player ID, time, track, vehicle used, and date of submission are stored and made available via a cloud server. In addition, each entry has an associated “ghost” available for download—that is, a no-collision replay of the run that the player can drive alongside, achieved by tracking the player position and direction over time. A third-party user account system is utilized to ensure users cannot set times on someone else’s account. The game is being developed in Unreal Engine 5.5 for the PC platform, though it does not use any of the engine's new graphically intensive features.
 
 # Architecture
-![Architecture diagram](images/arch-diagram.png)
+![Architecture diagram](images/arch-diagram-dark.png)
 
 # Wireframe Sketches
 ## Menu
