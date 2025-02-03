@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.0.10">
+  <diagram name="Page-1" id="4ktyPR9QcP_g-_YW1vM1">
+    <mxGraphModel dx="1434" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Back to Menu&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="570" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Retry&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="410" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-3" value="TRACK NAME" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="740" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-3">
+          <mxGeometry y="30" width="740" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-5" value="Personal Best" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-4">
+          <mxGeometry width="247" height="57" as="geometry">
+            <mxRectangle width="247" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-4">
+          <mxGeometry x="247" width="246" height="57" as="geometry">
+            <mxRectangle width="246" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-7" value="TIME" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-4">
+          <mxGeometry x="493" width="247" height="57" as="geometry">
+            <mxRectangle width="247" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-3">
+          <mxGeometry y="87" width="740" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-9" value="Ghost Times..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-8">
+          <mxGeometry width="247" height="56" as="geometry">
+            <mxRectangle width="247" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-10" value="Player X..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-8">
+          <mxGeometry x="247" width="246" height="56" as="geometry">
+            <mxRectangle width="246" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-11" value="TIMES..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-8">
+          <mxGeometry x="493" width="247" height="56" as="geometry">
+            <mxRectangle width="247" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-3">
+          <mxGeometry y="143" width="740" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-13" value="World Record" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-12">
+          <mxGeometry width="247" height="57" as="geometry">
+            <mxRectangle width="247" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-14" value="Player Y" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-12">
+          <mxGeometry x="247" width="246" height="57" as="geometry">
+            <mxRectangle width="246" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-15" value="TIME" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Gh6tZYisv6b_KyT18ajG-12">
+          <mxGeometry x="493" width="247" height="57" as="geometry">
+            <mxRectangle width="247" height="57" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-17" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;BEST TIME THIS SESSION&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="243" y="110" width="615" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;This screen is shown after a point-to-point run is completed or after the player ends a circuit run.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Their best time in the session is shown as the largest element. Points of comparison are shown below it.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Self-explanatory buttons allow the user to return to track selection or continue their attempts.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="108" y="660" width="885" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Gh6tZYisv6b_KyT18ajG-19" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px; color: rgb(255, 0, 0);&quot;&gt;DRAFT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot; size=&quot;3&quot;&gt;2025-02-02&lt;/font&gt;&lt;font style=&quot;color: rgba(0, 0, 0, 0);&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="10" width="170" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
