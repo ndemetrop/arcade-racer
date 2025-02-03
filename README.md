@@ -7,9 +7,13 @@ Due to the importance of the leaderboards, a significant amount of data is avail
 ![Architecture diagram](images/arch-diagram.png)
 
 # Wireframe Sketches
+## Menu
 ![Menu wireframe](images/menu-wireframe-dark.png)
+## Leaderboard
 ![Leaderboard wireframe](images/leaderboard-wireframe-dark.png)
+## Driving
 ![Driving wireframe](images/driving-wireframe-dark.png)
+## Results
 ![Results wireframe](images/results-wireframe-dark.png)
 
 # User Stories
