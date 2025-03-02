@@ -75,4 +75,4 @@ Due to the importance of the leaderboards, a significant amount of data is avail
 ![Entity relationship diagram](images/erd-dark.png)
 
 # UML Class Diagram
-![UML class diagram](uml-class-diagram-dark.png)
+![UML class diagram](images/uml-class-diagram-dark.png)
