@@ -1,3 +1,22 @@
+- [Overview](#overview)
+- [Requirements](#requirements)
+- [Architecture](#architecture)
+- [Wireframe Sketches](#wireframe-sketches)
+  * [Menu](#menu)
+  * [Leaderboard](#leaderboard)
+  * [Driving](#driving)
+  * [Results](#results)
+- [User Stories](#user-stories)
+- [Use Cases](#use-cases)
+  * [Leaderboard upload](#leaderboard-upload)
+  * [Viewing additional information](#viewing-additional-information)
+  * [Ghost download](#ghost-download)
+  * [Offline play](#offline-play)
+  * [Leaderboard moderation](#leaderboard-moderation)
+- [Use Case Diagram](#use-case-diagram)
+- [Entity Relationship Diagram](#entity-relationship-diagram)
+- [UML Class Diagram](#uml-class-diagram)
+
 # Overview
 Arcade Racer is a single-player time trial-based arcade racing game. It contains multiple unique vehicles for the player to use on both circuit and point-to-point tracks. The player’s best time on each track is uploaded to an online leaderboard, where it is visible to other players so they can compete to get the best time. This leaderboard is only available in-game, but developers have access to a webpage for entry management.
 
