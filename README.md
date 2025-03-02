@@ -70,3 +70,9 @@ Due to the importance of the leaderboards, a significant amount of data is avail
 
 # Use Case Diagram
 ![Use case diagram](images/use-case-diagram-dark.png)
+
+# Entity Relationship Diagram
+![Entity relationship diagram](images/erd-dark.png)
+
+# UML Class Diagram
+![UML class diagram](uml-class-diagram-dark.png)
