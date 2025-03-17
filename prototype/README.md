@@ -1,5 +1,7 @@
 # Arcade Racer Prototype
 
+Source code can be found at [ndemetrop/arcade_racer](https://github.com/ndemetrop/arcade_racer).
+
 The arcade racer game begins at the main menu, where the vehicle and track can be selected. There are buttons for continuing to the leaderboard, opening a page for adjusting the settings (not yet implemented), and quitting the game.
 
 ![Main menu implementation](images/main-menu-v1.png)
