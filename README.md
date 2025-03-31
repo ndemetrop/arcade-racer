@@ -16,6 +16,7 @@
 - [Use Case Diagram](#use-case-diagram)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [UML Class Diagram](#uml-class-diagram)
+- [Data Access Layer](#data-access-layer)
 
 # Overview
 Arcade Racer is a single-player time trial-based arcade racing game. It contains multiple unique vehicles for the player to use on both circuit and point-to-point tracks. The player’s best time on each track is uploaded to an online leaderboard, where it is visible to other players so they can compete to get the best time. This leaderboard is only available in-game, but developers have access to a webpage for entry management.
@@ -95,3 +96,9 @@ Due to the importance of the leaderboards, a significant amount of data is avail
 
 # UML Class Diagram
 ![UML class diagram](images/uml-class-diagram-dark.png)
+
+# Data Access Layer
+Code is available at [leaderboard-api](leaderboard-api). Note that there is no test data for ghosts due to size constraints.
+
+![API code snippet](images/api-code-snippet.png)
+![API result](images/api-result.png)
